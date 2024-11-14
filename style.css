@@ -52,7 +52,7 @@ p {
 }
 
 .extra {
-    padding-top: 5%;
+    padding-top: 1%;
 }
 
 .criador {
@@ -76,6 +76,13 @@ p {
     font-size: 200%;
 }
 
+.document {
+    padding-top: 10%;
+}
+
+.albuns {
+    padding-top: 10%;
+}
 .albuns img {
     transition: 0.5s;
     width: 35%;
